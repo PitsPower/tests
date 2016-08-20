@@ -1,5 +1,5 @@
 # tests
-Just testing Git and Github stuff.
+Just testing Git and GitHub stuff.
 - item 1
 - item 2
   - sub item 1
